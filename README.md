@@ -13,7 +13,7 @@
 
 ## Screenshots
 
-![App Screenshot](./todo-screenshot.png "todo-list app")
+![Alt text](todo-screenshot.png "todo-list app")
 
 
 ## Demonstração
