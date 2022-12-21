@@ -16,14 +16,14 @@
 ![Alt text](./todo-screeshot.png "todo-list app")
 
 
-## Demonstração
+## Demonstration
 
 Link for todo-list:
 
 https://todo-list-livid-two.vercel.app/
 
 
-## Funcionalidades
+## Features
 
 - Create tasks
 - Select and mark completed tasks
@@ -64,6 +64,6 @@ Start server
 * Github: [@AlefSloan](https://github.com/AlefSloan)
 * LinkedIn: [@alefsloan](https://linkedin.com/in/alefsloan)
 
-## Suporte
+## Support
 
 For support, send an email to alef_sloan@hotmail.com.
