@@ -30,7 +30,8 @@ https://todo-list-livid-two.vercel.app/
 - Change tasks order
 - Save the list locally for future access
 - Delete completed tasks or clear task list completely
-## Rodando localmente
+
+## Running locally
 
 Git clone repository
 
